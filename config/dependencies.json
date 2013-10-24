@@ -1,0 +1,36 @@
+{
+    "dependencies": [
+        {
+            "interfaces": "pallo\\library\\template\\TemplateEngine",
+            "class": "pallo\\library\\template\\PhpTemplateEngine",
+            "id": "php",
+            "calls": [
+                {
+                    "method": "__construct",
+                    "arguments": [
+                        {
+                            "name": "path",
+                            "type": "parameter",
+                            "properties": {
+                                "key": "system.directory.view.php",
+                                "default": "view/php"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "method": "setTheme",
+                    "arguments": [
+                        {
+                            "name": "theme",
+                            "type": "parameter",
+                            "properties": {
+                                "key": "template.theme"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
