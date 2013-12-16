@@ -11,7 +11,7 @@
     ],
     "require": {
         "pallo/app": ">=0.4.0",
-        "pallo/app-template": ">=0.1.0",
-        "pallo/lib-template-php": ">=0.2.0"
+        "pallo/app-template": ">=0.3.0",
+        "pallo/lib-template-php": ">=0.3.0"
     }
 }

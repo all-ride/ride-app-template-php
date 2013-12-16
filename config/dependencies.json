@@ -17,18 +17,6 @@
                             }
                         }
                     ]
-                },
-                {
-                    "method": "setTheme",
-                    "arguments": [
-                        {
-                            "name": "theme",
-                            "type": "parameter",
-                            "properties": {
-                                "key": "template.theme"
-                            }
-                        }
-                    ]
                 }
             ]
         }
