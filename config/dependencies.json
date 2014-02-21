@@ -1,8 +1,8 @@
 {
     "dependencies": [
         {
-            "interfaces": "pallo\\library\\template\\engine\\Engine",
-            "class": "pallo\\library\\template\\engine\\PhpEngine",
+            "interfaces": "ride\\library\\template\\engine\\Engine",
+            "class": "ride\\library\\template\\engine\\PhpEngine",
             "id": "php",
             "calls": [
                 {
