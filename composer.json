@@ -1,6 +1,6 @@
 {
-    "name": "pallo/app-template-php",
-    "description": "PHP template engine integration for a Pallo application.",
+    "name": "ride/app-template-php",
+    "description": "PHP template engine integration for a Ride application.",
     "license": "MIT",
     "version": "0.3.0",
     "authors": [
@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "pallo/app": ">=0.4.0",
-        "pallo/app-template": ">=0.3.0",
-        "pallo/lib-template-php": ">=0.3.0"
+        "ride/app": ">=0.4.0",
+        "ride/app-template": ">=0.3.0",
+        "ride/lib-template-php": ">=0.3.0"
     }
 }
